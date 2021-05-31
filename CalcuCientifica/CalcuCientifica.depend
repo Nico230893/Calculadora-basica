@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1597155245 source:c:\users\nicolas\documents\cursos 2020\lee 5º2\actividad nº8\calcucientifica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
